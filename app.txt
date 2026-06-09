@@ -4,9 +4,12 @@ version 2
 
 work in progress
 
+<<<<<<< HEAD
 master branch change
 
 
 Feature branch change
 
 
+=======
+>>>>>>> parent of 5630fb6 (Master change)
